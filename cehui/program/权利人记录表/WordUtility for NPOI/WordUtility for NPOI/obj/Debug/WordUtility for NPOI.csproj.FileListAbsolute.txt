@@ -42,3 +42,25 @@ E:\测绘事业部\地籍\Program\权利人记录表\权利人记录表 9.25\Wor
 E:\测绘事业部\地籍\Program\权利人记录表\权利人记录表 9.25\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.csproj.CopyComplete
 E:\测绘事业部\地籍\Program\权利人记录表\权利人记录表 9.25\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.exe
 E:\测绘事业部\地籍\Program\权利人记录表\权利人记录表 9.25\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.pdb
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\WordUtility for NPOI.exe.config
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\WordUtility for NPOI.exe
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\WordUtility for NPOI.pdb
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\NPOI.dll
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\NPOI.OOXML.dll
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\NPOI.OpenXml4Net.dll
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.csprojAssemblyReference.cache
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\MainWindow.g.cs
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\App.g.cs
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI_MarkupCompile.cache
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI_MarkupCompile.lref
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\MainWindow.baml
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.g.resources
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility_for_NPOI.Properties.Resources.resources
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.csproj.GenerateResource.cache
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.csproj.CoreCompileInputs.cache
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.csproj.CopyComplete
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.exe
+E:\github\geokey_Program\cehui\program\权利人记录表\WordUtility for NPOI\WordUtility for NPOI\obj\Debug\WordUtility for NPOI.pdb
