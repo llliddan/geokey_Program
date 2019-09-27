@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordUtility for NPOI", "WordUtility for NPOI\WordUtility for NPOI.csproj", "{61946DB4-E8C6-4D29-B7A8-B69B6313FF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61946DB4-E8C6-4D29-B7A8-B69B6313FF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61946DB4-E8C6-4D29-B7A8-B69B6313FF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61946DB4-E8C6-4D29-B7A8-B69B6313FF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61946DB4-E8C6-4D29-B7A8-B69B6313FF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAD2EC7-2F29-4937-8C05-B48617BC9112}
+	EndGlobalSection
+EndGlobal
